@@ -7,7 +7,7 @@ Date:	2020-04-20
 Platform: macOS
 
 Description:
-Demonstration of plist_class
+Demonstration of plist_preferences class
 """
 __author__ = "thedzy"
 __copyright__ = "Copyright 2020, thedzy"
