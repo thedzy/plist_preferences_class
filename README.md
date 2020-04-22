@@ -3,7 +3,9 @@
 ## _class_ plist_preference
 ### An easy way to access, store and save preference files
 ------
-JamfClassic interacts with the classic API of Jamf
+Easily manage a plist file and settings
+Simplifies the need to continually check that file exists, keys exists, etc
+When setting keys, or editing settings directly they are saved to disk (via auto save or save())
 
 Usage:
 ```python
